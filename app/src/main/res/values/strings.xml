@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Find The Location</string>
+    <string name="clue1">Let’s go see the sunset.</string>
+    <string name="clue2">Let’s learn about some history now.</string>
+    <string name="hint1">You will need to reach the “end” of the path.</string>
+    <string name="hint2">You can observe the flowing water on the way.</string>
+    <string name="location1_name">Bulwary Mieleckie</string>
+    <string name="info_location1">Bulwary Mieleckie is a 1.5 kilometer path made to allows for easy access for the South end of Mielec while still presenting the beautiful scenery near it.</string>
+    <string name="locationLatText1">50.2832</string>
+    <string name="locationLonText1">21.4099</string>
+    <string name="location2_name">Park Oborskich</string>
+    <string name="info_location2">Park Oborskich is a park containing a playground, fountain, and museum made to honor the history of the Mielecki region.</string>
+    <string name="locationLatText2">50.2842</string>
+    <string name="locationLonText2">21.4109</string>
+    <string name="rule1">1. Hit the start button.</string>
+    <string name="rule2">2. Read the clue. If you need more help. Hit the "Hint" button.</string>
+    <string name="rule3">3. Once at the location that the hint takes you to. Hit the "Found It!" button.</string>
+    <string name="rule4">4. Repeat these steps until you are at the final destination.</string>
+    <string name="incorrect">You\'re not in the right location! Move to the correct location and try again.</string>
+    <string name="start">START</string>
+    <string name="continueString">CONTINUE</string>
+    <string name="you_made">YOU MADE</string>
+    <string name="it">IT!</string>
+    <string name="it_took">It took:</string>
+    <string name="home">HOME</string>
+    <string name="clue">CLUE</string>
+    <string name="hint">HINT</string>
+    <string name="hint_semi_col">Hint:</string>
+    <string name="quit">QUIT</string>
+    <string name="found_it">Found It!</string>
+    <string name="s">s</string>
+</resources>
